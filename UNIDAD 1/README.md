@@ -28,7 +28,6 @@ Sistemas numéricos ─► Compuertas ─► Álgebra de Boole ─► Canónicas
 4. Implementar con una sola familia (NAND-NAND / NOR-NOR) y estimar costo en CI.
 5. Diseñar sumador/restador, detectar *overflow*, comparar magnitudes y entender la ALU.
 
-## Hitos de evaluación
-- **Entrega 1 del Proyecto Integrador — Semana 6:** tabla de verdad, expresión mínima y esquema simulado en Logisim-evolution.
+
 
 [⬅ Volver al libro](../README.md)
