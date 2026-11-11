@@ -1,4 +1,9 @@
-<p align="center"><img src="../assets/logo_unl.png" alt="Universidad Nacional de Loja" width="280"></p>
+<p align="center"> 
+<img width="400" height="400" alt="Universidad-Nacional-de-Loja-UNL" src="https://github.com/user-attachments/assets/fb9017a8-2b97-4f25-b4f4-78e402c39c1a" />
+
+
+
+</p>
 
 🏠 [Inicio](../README.md) › 🔌 Unidad 1
 
