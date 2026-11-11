@@ -10,7 +10,7 @@
 | Archivo | Descripción |
 | :--- | :--- |
 | [01_Teoria_Sistemas_Codigos_y_Compuertas.md](./01_Teoria_Sistemas_Codigos_y_Compuertas.md) | Niveles lógicos, bases, complemento a dos, códigos, compuertas, datasheets |
-| [02_Talleres_Actividades_y_Resoluciones.md](./02_Talleres_Actividades_y_Resoluciones.md) | Activación, actividades 1 y 2 resueltas, autoevaluación, tareas |
+
 
 ## Resumen en 6 líneas
 1. `0` y `1` son **rangos** de voltaje; entre ellos hay una zona indefinida.
