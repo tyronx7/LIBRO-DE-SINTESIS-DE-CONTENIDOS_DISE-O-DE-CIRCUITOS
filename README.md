@@ -1,4 +1,8 @@
-<p align="center"><img src="assets/logo_unl.png" alt="Universidad Nacional de Loja" width="280"></p>
+<p align="center">
+
+  <img width="380" height="380" alt="Universidad-Nacional-de-Loja-UNL" src="https://github.com/user-attachments/assets/48ba749e-59bd-42ca-8ddc-1b68ea63e8b1" />
+
+</p>
 
 🏠 **Inicio**
 
@@ -34,24 +38,9 @@
 | 3️⃣ [Semana 3](./UNIDAD%201/SEMANA%203/README.md) | Karnaugh, don't care y NAND/NOR | [🗺️ Sesión 1](./UNIDAD%201/SEMANA%203/01_Sesion1_Mapas_de_Karnaugh_SOP_POS.md) · [🌐 Sesión 2](./UNIDAD%201/SEMANA%203/02_Sesion2_Condiciones_Indiferentes_y_NAND_NOR.md) |
 | 4️⃣ [Semana 4](./UNIDAD%201/SEMANA%204/README.md) | Circuitos aritméticos, resta y overflow | [📖 Teoría](./UNIDAD%201/SEMANA%204/01_Teoria_Circuitos_Aritmeticos_Resta_y_Overflow.md) |
 
-## 📖 Cómo usar este libro
-1. Empieza por el `README.md` de cada unidad y semana: objetivos, mapa de contenidos y resumen.
-2. Cada archivo tiene **barra de navegación** arriba (migas de pan) y abajo (anterior / índice / siguiente).
-3. Las fórmulas usan LaTeX (`$...$`); se ven bien en GitHub, VS Code, Obsidian y Typora.
 
-## 🔤 Convenciones de notación
 
-| Símbolo | Significado |
-| :---: | :--- |
-| $A'$ | Complemento (NOT) de $A$ |
-| $A\cdot B$ / $AB$ | AND |
-| $A+B$ | OR |
-| $A\oplus B$ | XOR |
-| $m_i$ / $M_i$ | Minitérmino / Maxitérmino de índice $i$ |
-| $\sum m(\dots)$ / $\prod M(\dots)$ | Forma canónica SOP / POS |
-| `X` / $d(\dots)$ | Condición indiferente (*don't care*) |
 
----
 
 <div align="center">
 
